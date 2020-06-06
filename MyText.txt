@@ -1,8 +1,0 @@
-hello manmohan this linux command 
-vi editor commnd 
-
-for inert mode i 
-esp
-:q for quit not samve 
-:W for save the file 
-:X for exit for the editor.
